@@ -8,7 +8,7 @@ $('#fdiv').css(
 );
 /*
 function sayHello() {
-    $('#jotain').after('<p>Hello user</p>');
+    $('#jotain').after('<p id="tp">Hello user</p>');
 }
 
 $('#nappi').click(sayHello);
